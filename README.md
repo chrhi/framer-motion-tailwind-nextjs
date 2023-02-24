@@ -1,2 +1,7 @@
-# framer-motion-tailwind-nextjs
- Framer Motion Tailwind Next.js is a boilerplate starter project that combines the power of Framer Motion, Tailwind CSS, and Next.js. With this template, you can easily create visually stunning, responsive, and interactive web applications.  Framer Motion provides a powerful animation library that allows you to create complex and engaging animations with ease. Tailwind CSS is a utility-first CSS framework that provides a comprehensive set of pre-defined classes for building modern and responsive user interfaces. Next.js is a popular React-based framework for building server-side rendered applications.  This starter project includes pre-configured settings and pre-built components that allow you to quickly start building your web application without spending time on setup and configuration.  If you're looking for a powerful and easy-to-use starter project for your next web application, Framer Motion Tailwind Next.js is the perfect choice.
+# Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+
+### [Live Site](https://metaverse-sage-psi.vercel.app/)
+
+![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
+
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
